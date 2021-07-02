@@ -11,6 +11,10 @@ I. FILES
 ------------
 - mylexer.l                      Implements the tokenization of keywords and basic patterns (i.e. integer pattern)
 - myanalyzer.y                   Implements the expressions and pattern matching so a given a miniscript programm, the transpiler matches the input code with the written patterns and translates it to C code using the expressions.
+- correct1.ms,correct2.ms,
+  correct3.ms,correct4.ms        Some simple programms written in miniscript language.
+- correct1.c,correct2.c,
+  correct3.c,correct4.c          The previous miniscript programms,translated in C language(using this tool).
 
   
 II. INSTALLATION AND INSTRUCTIONS
