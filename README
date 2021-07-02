@@ -1,0 +1,5 @@
+1.Run command make.
+2.Run the command make compile to run the program in c language.BE SURE THAT debug=0 in the file mylexer.l
+(The input script must be in the file correct1.ms)
+3.if you make any changes,run make clean and then goto step 1.
+If you wanna see the c code,open prog.c after.
